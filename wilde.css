@@ -54,3 +54,25 @@ h5.ILLINGWORTH:hover{
     filter: blur(3px);
 
 }
+#content {
+    position: relative;
+}
+#content img {
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    height: 305px;
+    width: 350px;
+}
+ul.navbar-vertical a:hover{
+    background-color: #555;color:red;
+  }
+
+.ico:before{
+    content: '';
+    background:url('sc4.jpg');
+    background-size:cover;
+    position:absolute;
+    width:28px;
+    height:18px;
+    margin: 100px;px;
