@@ -41,3 +41,16 @@ table,td,th
 tr:nth-child(even) {
     background-color:#ccc;
   }
+h5.ILLINGWORTH:hover{
+    color: red;
+    text-shadow:2px 3px 5px yellow;
+    border: green;
+    filter: blur(3px);
+}
+ h5.ARBUTHNOT:hover{
+    color: green;
+    text-shadow:2px 3px 5px yellow;
+    border: blue;
+    filter: blur(3px);
+
+}
